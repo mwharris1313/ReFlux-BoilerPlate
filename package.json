@@ -1,0 +1,19 @@
+{
+  "name": "reFlux-rs",
+  "version": "0.1.0",
+  "main": "server/app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwharris333/reFlux-rs.git"
+  },
+  "author": "Michael Harris",
+  "license": "BSD 3-Clause",
+  "bugs": {
+    "url": "https://github.com/mwharris333/reFlux-rs/issues"
+  },
+  "homepage": "https://github.com/mwharris333/reFlux-rs",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
