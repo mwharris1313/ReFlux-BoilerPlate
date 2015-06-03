@@ -13,7 +13,9 @@
   },
   "homepage": "https://github.com/mwharris333/reFlux-rs",
   "dependencies": {
+    "express": "^4.12.4",
+    "redis": "^0.12.1",
+    "socket.io": "^1.3.5"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
